@@ -1,0 +1,7 @@
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\Praktikum 03\praktikum 03\Tugas taxi\bin\Debug\Tugas taxi.exe.config
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\Praktikum 03\praktikum 03\Tugas taxi\bin\Debug\Tugas taxi.exe
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\Praktikum 03\praktikum 03\Tugas taxi\bin\Debug\Tugas taxi.pdb
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\Praktikum 03\praktikum 03\Tugas taxi\obj\Debug\Tugas taxi.csprojAssemblyReference.cache
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\Praktikum 03\praktikum 03\Tugas taxi\obj\Debug\Tugas taxi.csproj.CoreCompileInputs.cache
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\Praktikum 03\praktikum 03\Tugas taxi\obj\Debug\Tugas taxi.exe
+F:\kampus\Semester 2\3349_Nisa Alfian_Pemograman II\Praktikum 03\praktikum 03\Tugas taxi\obj\Debug\Tugas taxi.pdb
